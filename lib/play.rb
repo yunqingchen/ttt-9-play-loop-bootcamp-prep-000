@@ -38,5 +38,5 @@ end
 # Define your play method below
 
 def play(board)
-  for i = 0 
+  i = 0 
   
